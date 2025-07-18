@@ -35,8 +35,6 @@
 #### 🔍 [puxando-cep](https://github.com/BrunoLOSouza/puxando-cep)
 > Projeto usando API ViaCEP com JavaScript puro, HTML e CSS.
 
-<img src="https://user-images.githubusercontent.com/00000000/cep-demo.gif" alt="Demo do projeto puxando-cep" width="500"/>
-
 #### 🗳️ [obrigado-a-votar-ou-nao](https://github.com/BrunoLOSouza/obrigado-a-votar-ou-nao)
 > Primeira aplicação simples com JavaScript.
 
@@ -53,6 +51,6 @@
 
 ### 📫 Contato
 
-- 📧 bruno@email.com (coloque o seu real)
-- 💼 [LinkedIn](https://www.linkedin.com/in/seu-usuario) (opcional)
+- 📧 brunolosouza1301@gmail.com
+- 💼 [LinkedIn](https://www.linkedin.com/in/bruno-lopes-de-oliveira-souza-784764372/)
 
