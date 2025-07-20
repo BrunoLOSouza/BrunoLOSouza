@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  Estudante de Desenvolvimento Full Stack | Em busca da minha 1ª oportunidade como dev
+  Estudante de Desenvolvimento Full Stack | Em busca da minha primeira oportunidade como dev
 </p>
 
 ---
@@ -14,8 +14,8 @@
 
 - 📚 Aprendendo: HTML, CSS, JavaScript, MySQL, Java (POO)
 - 🧠 Interesses: Desenvolvimento Web, APIs, Backend
-- 🎯 Objetivo: Conquistar uma vaga de estágio ou Jr. em tecnologia
-- 🧰 Ferramentas: VS Code, Git/GitHub
+- 🎯 Objetivo: Conquistar uma vaga de estágio ou júnior em tecnologia
+- 🧰 Ferramentas: VS Code, IntelliJ IDEA, Git/GitHub
 
 ---
 
@@ -33,7 +33,7 @@
 ### 📌 Projetos em destaque
 
 #### 🔍 [puxando-cep](https://github.com/BrunoLOSouza/puxando-cep)
-> Projeto usando API ViaCEP com JavaScript puro, HTML e CSS.
+> Projeto usando a API ViaCEP com JavaScript puro, HTML e CSS.
 
 #### 🗳️ [obrigado-a-votar-ou-nao](https://github.com/BrunoLOSouza/obrigado-a-votar-ou-nao)
 > Primeira aplicação simples com JavaScript.
@@ -44,13 +44,12 @@
 
 <p align="center">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=BrunoLOSouza&show_icons=true&theme=dark&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoLOSouza&layout=compact&theme=dark"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoLOSouza&layout=compact&theme=dark&cache_seconds=3600"/>
 </p>
 
 ---
 
 ### 📫 Contato
 
-- 📧 brunolosouza1301@gmail.com
+- 📧 brunolosouza1301@gmail.com  
 - 💼 [LinkedIn](https://www.linkedin.com/in/bruno-lopes-de-oliveira-souza-784764372/)
-
