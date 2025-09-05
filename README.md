@@ -12,7 +12,7 @@
 
 ### 🚀 Sobre mim
 
-- 📚 Estudando desenvolvimento **Full Stack**, com foco em tecnologias como Java, Spring Boot, HTML, CSS e JavaScript.
+- 📚 Estudando desenvolvimento **Full Stack**, com foco em tecnologias como Java, Spring Boot, HTML, CSS, JavaScript, Typescript, Angular.
 - 🧠 Interesses: Desenvolvimento Web, APIs, Backend e Frontend
 - 🎯 Objetivo: Conquistar minha primeira vaga como desenvolvedor júnior
 - 🧰 Ferramentas: VS Code, IntelliJ IDEA, Git/GitHub, Postman
@@ -45,8 +45,8 @@
 #### 📦 [puxando-cep](https://github.com/BrunoLOSouza/puxando-cep)
 > Consulta de CEP usando a API ViaCEP com HTML, CSS e JavaScript.
 
-#### 🗳️ [obrigado-a-votar-ou-nao](https://github.com/BrunoLOSouza/obrigado-a-votar-ou-nao)
-> Projeto simples com lógica em JavaScript para verificar se o voto é obrigatório.
+#### 🗳️ [Users-Filter-Project](https://github.com/BrunoLOSouza/Users-Filter-Project)
+> Aplicação de filtro de usuários feito com Angular 16.2.16.
 
 ---
 
